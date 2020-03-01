@@ -1,0 +1,6 @@
+D:\Learning\windows form\test01\First_Form\bin\Debug\First_Form.exe.config
+D:\Learning\windows form\test01\First_Form\bin\Debug\First_Form.exe
+D:\Learning\windows form\test01\First_Form\bin\Debug\First_Form.pdb
+D:\Learning\windows form\test01\First_Form\obj\Debug\First_Form.csprojAssemblyReference.cache
+D:\Learning\windows form\test01\First_Form\obj\Debug\First_Form.exe
+D:\Learning\windows form\test01\First_Form\obj\Debug\First_Form.pdb

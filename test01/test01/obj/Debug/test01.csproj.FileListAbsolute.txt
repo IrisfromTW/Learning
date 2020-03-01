@@ -1,0 +1,9 @@
+D:\Learning\windows form\test01\test01\bin\Debug\test01.exe.config
+D:\Learning\windows form\test01\test01\bin\Debug\test01.exe
+D:\Learning\windows form\test01\test01\bin\Debug\test01.pdb
+D:\Learning\windows form\test01\test01\obj\Debug\test01.csprojAssemblyReference.cache
+D:\Learning\windows form\test01\test01\obj\Debug\test01.Properties.Resources.resources
+D:\Learning\windows form\test01\test01\obj\Debug\test01.csproj.GenerateResource.cache
+D:\Learning\windows form\test01\test01\obj\Debug\test01.exe
+D:\Learning\windows form\test01\test01\obj\Debug\test01.pdb
+D:\Learning\windows form\test01\test01\obj\Debug\test01.Form1.resources

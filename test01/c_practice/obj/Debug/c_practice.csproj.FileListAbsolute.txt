@@ -1,0 +1,6 @@
+D:\Learning\windows form\test01\c_practice\obj\Debug\c_practice.csprojAssemblyReference.cache
+D:\Learning\windows form\test01\c_practice\bin\Debug\c_practice.exe.config
+D:\Learning\windows form\test01\c_practice\bin\Debug\c_practice.exe
+D:\Learning\windows form\test01\c_practice\bin\Debug\c_practice.pdb
+D:\Learning\windows form\test01\c_practice\obj\Debug\c_practice.exe
+D:\Learning\windows form\test01\c_practice\obj\Debug\c_practice.pdb
